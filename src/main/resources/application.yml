@@ -1,0 +1,22 @@
+
+spring:
+  thymeleaf:
+    mode: HTML
+
+    # 開發環境
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/charlie
+    username: root
+    password: qweasdzxc123+*
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
+logging:
+  level:
+    root: info
+    com.springboot: info
+  file:
+    name: logs/my.log

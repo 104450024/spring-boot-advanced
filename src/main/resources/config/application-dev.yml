@@ -1,0 +1,11 @@
+
+logging:
+  level:
+    root: error
+    com.irm.springbootadvance: error
+
+ # file:
+   # name: C:\Users\charlie\Desktop\my.log
+ # file:
+    # path: C:\Users\charlie\Desktop\devlog
+

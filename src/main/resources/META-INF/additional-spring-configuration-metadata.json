@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "thymeleaf",
+      "type": "java.lang.String",
+      "description": "Description for thymeleaf."
+    },
+    {
+      "name": "profiles",
+      "type": "java.lang.String",
+      "description": "Description for profiles."
+    },
+    {
+      "name": "url",
+      "type": "java.lang.String",
+      "description": "Description for url."
+    }
+  ] }
