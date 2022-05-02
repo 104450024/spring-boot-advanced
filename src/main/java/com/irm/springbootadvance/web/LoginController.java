@@ -24,7 +24,7 @@ public class LoginController {
 
     private final UserRepository userRepository;
 
-    @Autowired   /** 注入Beans(Java) **/
+    @Autowired   /** 注入Beans(Java) 88888**/
     public LoginController(UserRepository userRepository) {
         this.userRepository = userRepository;
     }
