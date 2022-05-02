@@ -1,1 +1,2 @@
-add testbranch.txt 3
+add testbranch.txt 
+test pull
